@@ -1,13 +1,18 @@
 .card{
     width: 300px;
-    background-color: blueviolet;
+    background-color:#99b3ff;
     border-radius: 30px;
     margin: 10px;
     box-shadow: 0 0 3px 2px #a3c2c2;
 }
 .card:hover{
-   box-shadow: 0 0 20px 10px #ffd480;
-
+   box-shadow: 0 0 20px 16px #ffd480;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 50px;
 }
 .img{
     width: 100%;
@@ -24,4 +29,5 @@
     flex-direction: row;
     justify-content:space-evenly;
     flex-wrap: wrap;
+    margin-top: 70px;
 }
