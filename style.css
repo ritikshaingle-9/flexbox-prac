@@ -3,7 +3,10 @@
     background-color: blueviolet;
     border-radius: 30px;
     margin: 10px;
-    box-shadow: 0 0 3px 2px gainsbo;
+    box-shadow: 0 0 3px 2px #a3c2c2;
+}
+.card:hover{
+   box-shadow: 0 0 20px 10px #ffd480;
 
 }
 .img{
