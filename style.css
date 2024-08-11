@@ -44,56 +44,120 @@ h1{
     justify-content:end;
     margin: 15px;
 }
-.card2{
-    width:250px;
-    background-color:#99b3ff;
-    border-radius: 30px;
-    margin:10px;
-    box-shadow: 0 0 3px 2px #a3c2c2;
-}
+
 .parent-card3{
     display: flex;
     flex-direction:row;
     justify-content:center;
     margin: 8px;
 }
-.card3{
-    width:250px;
-    background-color:#99b3ff;
-    border-radius: 30px;
-    margin:8px;
-    box-shadow: 0 0 3px 2px #a3c2c2;
-}
+
 .parent-card4{
     display: flex;
     flex-direction:row;
     justify-content:space-evenly;
 }
-.card4{
-    width:250px;
-    background-color:#99b3ff;
-    border-radius: 30px;
-    box-shadow: 0 0 3px 2px #a3c2c2;
-}
+
 .parent-card5{
     display: flex;
     flex-direction:row;
     justify-content:space-between;
 }
-.card5{
-    width:250px;
-    background-color:#99b3ff;
-    border-radius: 30px;
-    box-shadow: 0 0 3px 2px #a3c2c2;
-}
+
 .parent-card6{
     display: flex;
     flex-direction:row;
     justify-content:space-around;
 }
-.card6{
-    width:250px;
-    background-color:#99b3ff;
-    border-radius: 30px;
-    box-shadow: 0 0 3px 2px #a3c2c2;
+.parent-card7{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:start;
 }
+.parent-card8{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:end;
+}
+.parent-card9{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:center;
+}
+.parent-card10{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:space-evenly;
+}
+.parent-card11{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:space-between;
+}
+.parent-card12{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:space-around;
+}
+.parent-card13{
+    display: flex;
+    flex-direction:column;
+    justify-content:start;
+}
+.parent-card14{
+    display: flex;
+    flex-direction:column;
+    justify-content:end;
+}
+.parent-card15{
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.parent-card16{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-evenly;
+}
+.parent-card17{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+.parent-card18{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+}
+.parent-card19{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:start;
+}
+.parent-card20{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:end;
+}
+.parent-card21{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:center;
+}
+.parent-card22{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:space-evenly;
+}
+.parent-card23{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:space-between;
+}
+.parent-card24{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:space-around;
+}
+
+
