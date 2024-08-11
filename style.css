@@ -31,3 +31,16 @@ h1{
     flex-wrap: wrap;
     margin-top: 70px;
 }
+.parent-card2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:start ;
+    margin: 15px;
+}
+.card2{
+    width:250px;
+    background-color:#99b3ff;
+    border-radius: 30px;
+    margin:10px;
+    box-shadow: 0 0 3px 2px #a3c2c2;
+}
